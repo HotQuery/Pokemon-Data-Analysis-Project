@@ -1,0 +1,12 @@
+This project actually ended up being a great practice with data analysis. Coming out of this, I feel much more equiped to look at CSV and 
+other similar files and have some real tools to parse and examine data in a specifc way. While I originally intended to do an analysis
+on popular colors for decks in the trading card game Magic the Gathering, I decided to structure the learning process more and focus on 
+specifically learning how Pandas works: taking a given data set, and being able to ask some specific questions that could be answered
+with the tools Pandas provides. I did a lot of research on Pandas and watched some extensive tutorials going into the variety of methods 
+one can employ such as the .mean, .count, and .sum functions which are very useful for representative data. I learned how to read and write 
+csv files with pandas, and how to even manipulate data with the dataframe structures. In the dataset that I used, comprised of pokemon, I 
+was able to ask questions like "what is the average defense rating for each type of pokemon?" which I was able to answer successfully, 
+which will hopefulyl be sufficiently demonstrated in the LICECAP image.
+
+I've included a second smaller project that also used matplotlab, where I practiced using some of the functions there to examine different 
+growth rates of countries, and plotting that data on a graph. 
